@@ -1,0 +1,5 @@
+export const SEQUELIZE = 'SEQUELIZE'
+export const DEV = 'development'
+export const TEST = 'test'
+export const PROD = 'production'
+export const USER_RESPOSITORY = 'USER_RESPOSITORY'
